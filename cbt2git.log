@@ -1,0 +1,15 @@
+2023-04-03 01:00:30.142775 - Initialized conversion of CBT535
+2023-04-03 01:00:30.260537 - Received CBT.V504.FILE535.PDS from FILE535.XMI 
+2023-04-03 01:00:30.263482 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE535.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:00:30.264774 - Found $$NOTE01.txt (text/plain) in CBT.V504.FILE535.PDS, moved to PDS/$$NOTE01
+2023-04-03 01:00:30.265920 - Found $$README.txt (text/plain) in CBT.V504.FILE535.PDS, moved to PDS/$$README
+2023-04-03 01:00:30.266997 - Found #CCAT.txt (text/plain) in CBT.V504.FILE535.PDS, moved to PDS/#CCAT
+2023-04-03 01:00:30.268048 - Found @FILE535.txt (text/plain) in CBT.V504.FILE535.PDS, moved to PDS/@FILE535
+2023-04-03 01:00:30.269226 - Found ASSEMBLE.txt (text/plain) in CBT.V504.FILE535.PDS, moved to PDS/ASSEMBLE
+2023-04-03 01:00:30.270321 - Found ASSEMBLS.jcl (text/plain) in CBT.V504.FILE535.PDS, moved to PDS/ASSEMBLS
+2023-04-03 01:00:30.271500 - Found CCAT.txt (text/plain) in CBT.V504.FILE535.PDS, moved to PDS/CCAT
+2023-04-03 01:00:30.272749 - Found DERCCT.txt (text/plain) in CBT.V504.FILE535.PDS, moved to PDS/DERCCT
+2023-04-03 01:00:30.273732 - Found JCCAT.jcl (text/plain) in CBT.V504.FILE535.PDS, moved to PDS/JCCAT
+2023-04-03 01:00:30.274731 - Found JCCATS.jcl (text/plain) in CBT.V504.FILE535.PDS, moved to PDS/JCCATS
+2023-04-03 01:00:30.282358 - Found LOADLIB.xmi (application/xmit) in CBT.V504.FILE535.PDS
+2023-04-03 01:00:30.290667   - Received RECFM=U data, stored XMIT file as CBT535/LOADLIB.xmi
